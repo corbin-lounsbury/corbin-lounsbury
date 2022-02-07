@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @corbin-lounsbury
 - 👀 I’m interested in IT automation, infrastructure as code, cloud(AWS/Azure). 
-- 🌱 I’m currently learning Ansible
-- 💞️ I’m looking to collaborate on Ansible, Terraform, Packer. 
+- 🌱 I’m currently learning Ansible, Packer, PowerShell (with emphasis in Azure operations/development), C#
+- 💞️ I’m looking to collaborate on Ansible, Terraform, Packer, PowerShell. 
 - 📫 How to reach me corbin.lounsbury@gmail.com
 
 <!---
